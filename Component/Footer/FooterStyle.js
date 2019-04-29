@@ -22,7 +22,7 @@ const styles = {
         position:'absolute',
         shadowOpacity: 0.58,
         shadowRadius: 16.00,
-        elevation: 24,shadowOffset:{  width: 0,  height:  12,  },
+        elevation: 24,shadowOffset:{  width: 0,  height:  20,  },
       },
       footerItem:{
       alignItems: 'center',
